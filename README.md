@@ -19,7 +19,7 @@ Video-language models (Video-LLMs) excel at understanding video content but stru
 
 <table class="center">
     <tr>
-    <td><img src="assets/videopasta_overview.png" alt="VideoPASTA Overview Diagram"></td>
+    <td><img src="assets/pipeline.png" alt="VideoPASTA Overview Diagram"></td>
     </tr>
     <tr>
     <td align="center"><em>Overview of the VideoPASTA framework.</em></td>
