@@ -30,7 +30,7 @@ Video-language models (Video-LLMs) excel at understanding video content but stru
 - [x] Release Paper.
 - [x] Release VideoPASTA fine-tuned model weights (e.g., Qwen2.5-VL + VideoPASTA).
 - [x] Release Inference Code.
-- [ ] Release VideoPASTA Preference Dataset.
+- [x] Release VideoPASTA Preference Dataset.
 
 ## 📦 Install
 
