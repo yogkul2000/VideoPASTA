@@ -10,6 +10,7 @@
  <a href='https://people-robots.github.io/VideoPASTA/'><img src='https://img.shields.io/badge/Project-Website-blue'></a>&nbsp;
  <a href='https://huggingface.co/datasets/yogkul2000/VideoPASTA-7k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20VideoPASTA--7K-Dataset-blue'></a>&nbsp;
  <a href='https://huggingface.co/yogkul2000/VideoPASTA'><img src='https://img.shields.io/badge/model-checkpoints-yellow'></a> 
+ <a href='https://huggingface.co/datasets/yogkul2000/VideoPASTA-7k'><img src='https://img.shields.io/badge/huggingface-datasets-green'></a> 
 
  
  </div>
